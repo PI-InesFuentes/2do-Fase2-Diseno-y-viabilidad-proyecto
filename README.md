@@ -1,4 +1,4 @@
-<a href="https://github.com/PI-InesFuentes"><img src="https://raw.githubusercontent.com/PI-InesFuentes/.github/main/profile/banner.svg" width="100%" alt="Nudo"></a>
+<a href="https://github.com/PI-InesFuentes"><img src="https://raw.githubusercontent.com/PI-InesFuentes/.github/main/profile/nudo-banner.svg" width="100%" alt="Nudo"></a>
 
 # Fase 2 · Diseño y viabilidad del proyecto
 
